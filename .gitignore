@@ -1,4 +1,4 @@
 *
-!*.f95
+!*.f*
 !.gitignore
 !.git
