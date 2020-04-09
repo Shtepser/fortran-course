@@ -1,0 +1,6 @@
+&inputs
+	nx=10, ny=20
+	outputfilename='opfile'
+	time=4.5
+
+/
