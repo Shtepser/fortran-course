@@ -1,2 +1,4 @@
 **/*.out
 **/*.mod
+.idea/
+**/cmake-build-debug/
